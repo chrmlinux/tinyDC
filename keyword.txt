@@ -1,0 +1,7 @@
+tinyDC      KEYWORD1
+dcR					KEYWORD1
+dcL         KEYWORD1
+
+begin      KEYWORD2
+pwm        KEYWORD2
+cntr       KEYWORD2
